@@ -1,0 +1,6 @@
+Mi primera práctica con Git y GitHub.
+
+Nombre:Lilibeth Tatiana Gomez Mantilla
+Curso: Ingeniería de Software
+Fecha: 22 de mayo del 2026
+Estoy aprendiendo a usar control de versiones. 
